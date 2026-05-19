@@ -1,0 +1,9 @@
+/home/noobik999/Noobik999/workspace/projects/lab06/_build/CMakeFiles/print.dir
+/home/noobik999/Noobik999/workspace/projects/lab06/_build/CMakeFiles/package.dir
+/home/noobik999/Noobik999/workspace/projects/lab06/_build/CMakeFiles/package_source.dir
+/home/noobik999/Noobik999/workspace/projects/lab06/_build/CMakeFiles/edit_cache.dir
+/home/noobik999/Noobik999/workspace/projects/lab06/_build/CMakeFiles/rebuild_cache.dir
+/home/noobik999/Noobik999/workspace/projects/lab06/_build/CMakeFiles/list_install_components.dir
+/home/noobik999/Noobik999/workspace/projects/lab06/_build/CMakeFiles/install.dir
+/home/noobik999/Noobik999/workspace/projects/lab06/_build/CMakeFiles/install/local.dir
+/home/noobik999/Noobik999/workspace/projects/lab06/_build/CMakeFiles/install/strip.dir
