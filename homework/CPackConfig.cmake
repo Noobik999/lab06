@@ -1,6 +1,5 @@
 include(InstallRequiredSystemLibraries)
 
-set(CPACK_PACKAGE_CONTACT yamschikovzs@student.bmstu.ru)
 set(CPACK_PACKAGE_NAME "solver")
 set(CPACK_PACKAGE_VERSION_MAJOR ${SOLVER_VERSION_MAJOR})
 set(CPACK_PACKAGE_VERSION_MINOR ${SOLVER_VERSION_MINOR})
